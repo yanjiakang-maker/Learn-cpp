@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\桌面\source\C++代码\C++基础语法\C++基础语法\test.cpp(199,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\source\C++代码\C++基础语法\C++基础语法\test.cpp(202,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+D:\桌面\source\C++代码\C++基础语法\C++基础语法\test.cpp(233): warning C4172: 返回局部变量或临时变量的地址: a
+  C++基础语法.vcxproj -> D:\桌面\source\C++代码\C++基础语法\Debug\C++基础语法.exe
