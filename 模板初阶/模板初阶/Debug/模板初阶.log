@@ -1,0 +1,17 @@
+﻿  test.cpp
+D:\桌面\source\C++代码\模板初阶\模板初阶\test.cpp(31,11): warning C4244: “return”: 从“T2”转换到“T”，可能丢失数据
+          with
+          [
+              T2=double
+          ]
+          and
+          [
+              T=int
+          ]
+D:\桌面\source\C++代码\模板初阶\模板初阶\test.cpp(56): message : 查看对正在编译的函数 模板 实例化“T Add<int,double>(const T &,const T2 &)”的引用
+          with
+          [
+              T=int,
+              T2=double
+          ]
+  模板初阶.vcxproj -> D:\桌面\source\C++代码\模板初阶\Debug\模板初阶.exe
