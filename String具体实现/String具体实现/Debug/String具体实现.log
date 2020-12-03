@@ -1,0 +1,4 @@
+﻿  String.cpp
+D:\桌面\source\C++代码\String具体实现\String具体实现\String.cpp(92,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\source\C++代码\String具体实现\String具体实现\String.cpp(302,23): warning C4018: “<”: 有符号/无符号不匹配
+  String具体实现.vcxproj -> D:\桌面\source\C++代码\String具体实现\Debug\String具体实现.exe
