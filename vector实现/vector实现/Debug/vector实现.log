@@ -1,0 +1,6 @@
+﻿  vector.cpp
+D:\桌面\source\C++代码\vector实现\vector实现\vector.cpp(82,2): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\source\C++代码\vector实现\vector实现\vector.cpp(68): message : 在编译 类 模板 成员函数“void Vector<std::string>::reserve(size_t)”时
+D:\桌面\source\C++代码\vector实现\vector实现\vector.cpp(103): message : 查看对正在编译的函数 模板 实例化“void Vector<std::string>::reserve(size_t)”的引用
+D:\桌面\source\C++代码\vector实现\vector实现\vector.cpp(369): message : 查看对正在编译的 类 模板 实例化“Vector<std::string>”的引用
+  vector实现.vcxproj -> D:\桌面\source\C++代码\vector实现\Debug\vector实现.exe
