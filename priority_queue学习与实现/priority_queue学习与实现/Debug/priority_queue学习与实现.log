@@ -1,0 +1,7 @@
+﻿  priority_queue.cpp
+D:\桌面\source\C++代码\priority_queue学习与实现\priority_queue学习与实现\priority_queue.cpp(74,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\桌面\source\C++代码\priority_queue学习与实现\priority_queue学习与实现\priority_queue.cpp(70): message : 在编译 类 模板 成员函数“void PriorityQueue<int,std::vector<int,std::allocator<int>>,Less<int>>::shiftDown(int)”时
+D:\桌面\source\C++代码\priority_queue学习与实现\priority_queue学习与实现\priority_queue.cpp(66): message : 查看对正在编译的函数 模板 实例化“void PriorityQueue<int,std::vector<int,std::allocator<int>>,Less<int>>::shiftDown(int)”的引用
+D:\桌面\source\C++代码\priority_queue学习与实现\priority_queue学习与实现\priority_queue.cpp(121): message : 查看对正在编译的 类 模板 实例化“PriorityQueue<int,std::vector<int,std::allocator<int>>,Less<int>>”的引用
+D:\桌面\source\C++代码\priority_queue学习与实现\priority_queue学习与实现\priority_queue.cpp(77,18): warning C4018: “<”: 有符号/无符号不匹配
+  priority_queue学习与实现.vcxproj -> D:\桌面\source\C++代码\priority_queue学习与实现\Debug\priority_queue学习与实现.exe
